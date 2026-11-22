@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "resources": {
+    "./agents/procure-ai.md": {
+      "kind": "agent",
+      "id": "agent_012k11TaHCyahauFP8cimcrQ",
+      "version": "3",
+      "hash": ""
+    },
+    "./environments/procureai-env.yml": {
+      "kind": "environment",
+      "id": "env_017nUtTJv7jtbAnn9m7PGfFk",
+      "hash": ""
+    }
+  }
+}
